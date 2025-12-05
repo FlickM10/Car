@@ -1,14 +1,14 @@
 # 🚗 Car Dodger – Endless Traffic Dodge Game
 
-![Car Dodger screenshot](https://raw.githubusercontent.com/FlickM10/car-dodger/main/screenshot.png)  
-*(Replace the link above with your own screenshot after first push!)*
+<img width="1902" height="1024" alt="image" src="https://github.com/user-attachments/assets/1c019430-486f-42ab-9e47-7ebafd29391d" />
+(https://raw.githubusercontent.com/FlickM10/car-dodger/main/screenshot.png)  
+
 
 A super-simple, addictive, single-file HTML5 endless car-dodging game made with pure JavaScript and Canvas.  
 Dodge the oncoming traffic as long as you can — the longer you survive, the faster it gets!
 
-Live Demo → https://YOUR_USERNAME.github.io/car-dodger  
+Live Demo → https://flickm10.github.io/car-dodger  
 
-(Just enable GitHub Pages on your repo and it works instantly!)
 
 ## Features
 - One single `index.html` file (zero dependencies)
@@ -42,7 +42,6 @@ cd car-dodger
 open index.html   # macOS
 # or just double-click the file
 ```
-
 Deploy with GitHub Pages (free hosting)
 
 Push this repo to GitHub
